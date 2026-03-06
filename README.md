@@ -1,6 +1,6 @@
 # TodoApp ASP.NET Core 2026 Tech Stack Sample
 
-This solution demonstrates a Todo domain across most technologies from the provided ASP.NET Core cheat sheet.
+This solution demonstrates a Todo domain across most technologies for ASP.NET Core stack.
 
 ## Projects
 
