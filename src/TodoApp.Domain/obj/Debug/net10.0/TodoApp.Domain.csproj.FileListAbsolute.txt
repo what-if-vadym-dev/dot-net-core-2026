@@ -1,0 +1,11 @@
+C:\Git\automation\asp-net-core\src\TodoApp.Domain\bin\Debug\net10.0\TodoApp.Domain.deps.json
+C:\Git\automation\asp-net-core\src\TodoApp.Domain\bin\Debug\net10.0\TodoApp.Domain.dll
+C:\Git\automation\asp-net-core\src\TodoApp.Domain\bin\Debug\net10.0\TodoApp.Domain.pdb
+C:\Git\automation\asp-net-core\src\TodoApp.Domain\obj\Debug\net10.0\TodoApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\automation\asp-net-core\src\TodoApp.Domain\obj\Debug\net10.0\TodoApp.Domain.AssemblyInfoInputs.cache
+C:\Git\automation\asp-net-core\src\TodoApp.Domain\obj\Debug\net10.0\TodoApp.Domain.AssemblyInfo.cs
+C:\Git\automation\asp-net-core\src\TodoApp.Domain\obj\Debug\net10.0\TodoApp.Domain.csproj.CoreCompileInputs.cache
+C:\Git\automation\asp-net-core\src\TodoApp.Domain\obj\Debug\net10.0\TodoApp.Domain.dll
+C:\Git\automation\asp-net-core\src\TodoApp.Domain\obj\Debug\net10.0\refint\TodoApp.Domain.dll
+C:\Git\automation\asp-net-core\src\TodoApp.Domain\obj\Debug\net10.0\TodoApp.Domain.pdb
+C:\Git\automation\asp-net-core\src\TodoApp.Domain\obj\Debug\net10.0\ref\TodoApp.Domain.dll

@@ -1,0 +1,40 @@
+syntax = "proto3";
+
+option csharp_namespace = "TodoApp.Grpc";
+
+package todo;
+
+service TodoService {
+  rpc GetTodo (GetTodoRequest) returns (GetTodoReply);
+  rpc ListTodos (ListTodosRequest) returns (ListTodosReply);
+}
+
+message GetTodoRequest {
+  string id = 1;
+}
+
+message GetTodoReply {
+  TodoGrpcItem item = 1;
+}
+
+message ListTodosRequest {
+  int32 page = 1;
+  int32 pageSize = 2;
+  bool includeCompleted = 3;
+}
+
+message ListTodosReply {
+  repeated TodoGrpcItem items = 1;
+  int32 totalCount = 2;
+}
+
+message TodoGrpcItem {
+  string id = 1;
+  string title = 2;
+  string description = 3;
+  bool isCompleted = 4;
+  int32 priority = 5;
+  string dueAtUtc = 6;
+  string createdAtUtc = 7;
+  string updatedAtUtc = 8;
+}

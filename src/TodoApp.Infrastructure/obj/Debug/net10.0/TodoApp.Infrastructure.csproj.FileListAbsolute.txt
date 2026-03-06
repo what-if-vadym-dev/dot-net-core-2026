@@ -1,0 +1,15 @@
+C:\Git\automation\asp-net-core\src\TodoApp.Infrastructure\obj\Debug\net10.0\TodoApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Git\automation\asp-net-core\src\TodoApp.Infrastructure\obj\Debug\net10.0\TodoApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\automation\asp-net-core\src\TodoApp.Infrastructure\obj\Debug\net10.0\TodoApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Git\automation\asp-net-core\src\TodoApp.Infrastructure\obj\Debug\net10.0\TodoApp.Infrastructure.AssemblyInfo.cs
+C:\Git\automation\asp-net-core\src\TodoApp.Infrastructure\obj\Debug\net10.0\TodoApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Git\automation\asp-net-core\src\TodoApp.Infrastructure\bin\Debug\net10.0\TodoApp.Infrastructure.deps.json
+C:\Git\automation\asp-net-core\src\TodoApp.Infrastructure\bin\Debug\net10.0\TodoApp.Infrastructure.dll
+C:\Git\automation\asp-net-core\src\TodoApp.Infrastructure\bin\Debug\net10.0\TodoApp.Infrastructure.pdb
+C:\Git\automation\asp-net-core\src\TodoApp.Infrastructure\bin\Debug\net10.0\TodoApp.Domain.dll
+C:\Git\automation\asp-net-core\src\TodoApp.Infrastructure\bin\Debug\net10.0\TodoApp.Domain.pdb
+C:\Git\automation\asp-net-core\src\TodoApp.Infrastructure\obj\Debug\net10.0\TodoApp..D6B2378B.Up2Date
+C:\Git\automation\asp-net-core\src\TodoApp.Infrastructure\obj\Debug\net10.0\TodoApp.Infrastructure.dll
+C:\Git\automation\asp-net-core\src\TodoApp.Infrastructure\obj\Debug\net10.0\refint\TodoApp.Infrastructure.dll
+C:\Git\automation\asp-net-core\src\TodoApp.Infrastructure\obj\Debug\net10.0\TodoApp.Infrastructure.pdb
+C:\Git\automation\asp-net-core\src\TodoApp.Infrastructure\obj\Debug\net10.0\ref\TodoApp.Infrastructure.dll
